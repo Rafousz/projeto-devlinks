@@ -1,0 +1,33 @@
+{
+  "workbench.colorTheme": "Night Owl",
+  "terminal.integrated.defaultProfile.windows": "Git Bash",
+  "editor.wordWrap": "on",
+  "terminal.integrated.fontFamily": "JetBrains Mono",
+  "editor.fontFamily": "JetBrains Mono",
+  "editor.fontSize": 13,
+  "workbench.iconTheme": "material-icon-theme",
+  "editor.fontLigatures": "true",
+  "workbench.editor.labelFormat": "short",
+  "explorer.compactFolders": false,
+  "editor.semanticHighlighting.enabled": false,
+  "breadcrumbs.enabled": false,
+  "editor.minimap.enabled": false,
+  "editor.scrollbar.horizontal": "hidden",
+  "editor.scrollbar.vertical": "hidden",
+  "explorer.confirmDelete": true,
+  "chat.commandCenter.enabled": false,
+  "workbench.layoutControl.enabled": false,
+  "terminal.integrated.fontSize": 13,
+  "workbench.activityBar.location": "top",
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "prettier.enable": true,
+  "prettier.singleQuote": false,
+  "prettier.tabWidth": 2,
+  "prettier.semi": false,
+  "editor.formatOnSave": true,
+  "terminal.integrated.profiles.windows": {
+    "Git Bash": {
+      "source": "Git Bash"
+    }
+  }
+}
